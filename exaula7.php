@@ -48,3 +48,10 @@ $computador = rand(1,100);
 ehParOuImpar ($usuario, $computador);
 
 // Eh isso aí 
+
+
+
+
+
+
+
